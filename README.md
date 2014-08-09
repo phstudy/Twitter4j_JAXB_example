@@ -1,1 +1,1 @@
-Please use JDK6.
+A example for Stackoverflow question: saving twitter4J Status to MongoDB gives “twitter4j.Status is an interface, and JAXB can't handle interfaces” (http://stackoverflow.com/questions/18490707/saving-twitter4j-status-to-mongodb-gives-twitter4j-status-is-an-interface-and)
